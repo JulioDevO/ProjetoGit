@@ -1,11 +1,3 @@
-''''integrantes: 
-→ Júlio César
-→ Arthur Valença 
-→ Kayky Raphael 
-→ Sandro Rogério 
-→ Larissa Cavalcante
-→ Gabriel Nathan
-'''
 reclamacao = []
 while True:
     print("\nMenu de reclamação: ")
